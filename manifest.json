@@ -11,7 +11,7 @@
     },
     "manifest_version": 2,
 
-    "permissions": ["<all_urls>", "tabs", "activeTab"],
+    "permissions": ["<all_urls>", "tabs", "activeTab", "storage"],
 
     "browser_action": {
         "default_popup": "popup.html",
