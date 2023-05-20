@@ -11,7 +11,7 @@
     },
     "manifest_version": 3,
 
-    "permissions": ["tabs", "storage"],
+    "permissions": ["storage"],
     "host_permissions": ["*://*/*"],
 
     "action": {
